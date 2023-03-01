@@ -93,8 +93,8 @@ See the [Q2.ipynb](https://github.com/HalleypC/Neobi-Questions/blob/main/Q2.ipyn
 
 ## 3. If you had to tell a story with our Cannabis data what would it be? 
 
-Using Data from Canada's Open Data Portal, I produced the following mock report and insights. 
-https://open.canada.ca/data/en/dataset/1f8d838e-f738-4549-8019-edfc0d931cd7
+Using Data from Canada's [Open Data Portal](https://open.canada.ca/data/en/dataset/1f8d838e-f738-4549-8019-edfc0d931cd7), I produced the following mock report and insights. 
+
 
 ![Alt text](Figures/Sales.png "Medical Sales")
  
