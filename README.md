@@ -1,7 +1,9 @@
 # Neobi-Questions
 
 ## 1. Write a query to Join three tables in SQL
-![Alt text](Sample_ERD.PNG "Sample ERD")
+
+![Alt text](Figures/Sample_ERD.PNG "Sample ERD")
+
 Using the above Database as an example, here is how we can join three tables using SQL:
 
 ```SQL
@@ -69,6 +71,13 @@ Here is the result:
 See the Q2.ipynb for my interpretation of these steps coded in python.
 
 ## 3. If you had to tell a story with our Cannabis data what would it be? 
+
+Using Data from Canada's Open Data Portal, I produced the following report and insights. 
+https://open.canada.ca/data/en/dataset/1f8d838e-f738-4549-8019-edfc0d931cd7
+
+
+
+![Alt text](Figures/Medical_Sales.png "Medical Sales")
  
 To tell any story, we need to identify three main components: Context, Audience, Purpose (CAP)
 
